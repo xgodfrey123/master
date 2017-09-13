@@ -2,8 +2,7 @@
 SQLyog Ultimate v11.5 (64 bit)
 MySQL - 5.6.21 : Database - scratch
 *********************************************************************
-*/
-
+*/
 /*!40101 SET NAMES utf8 */;
 
 /*!40101 SET SQL_MODE=''*/;
